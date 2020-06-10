@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Language</string>
+    <string-array name="language">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+    <string-array name="indent">
+        <item>Крупная</item>
+        <item>Средняя</item>
+        <item>Мелкая</item>
+    </string-array>
+    <string name="text">Это текст для проверки переключения языка. Всем отличного дня!!!</string>
+</resources>
